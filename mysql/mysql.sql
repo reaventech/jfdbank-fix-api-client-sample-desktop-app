@@ -1,0 +1,6 @@
+source quickfix_initiator_database.sql;
+source quickfix_initiator_sessions_table.sql;
+source quickfix_initiator_messages_table.sql;
+source quickfix_initiator_messages_log_incoming_table.sql;
+source quickfix_initiator_messages_log_outgoing_table.sql;
+source quickfix_initiator_events_log_table.sql;
