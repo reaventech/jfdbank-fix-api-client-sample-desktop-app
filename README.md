@@ -108,12 +108,12 @@ if(MsgType.LOGON.compareTo(msgType) == 0 && FixVersions.BEGINSTRING_FIX43.compar
 ## Usage of App
 
 1. Market Data Request:
-![image-info](scr-1-market-data-request.png)
+![image-info](./scr-1-market-data-request.png)
 
 2. Send new order request:
-![image-info](scr-2-send-new-order-request.png)
+![image-info](./scr-2-send-new-order-request.png)
 
 3. Send order cancel request for the selected order:
-![image-info](scr-3-send-order-cancel-request.png)
+![image-info](./scr-3-send-order-cancel-request.png)
 
 
