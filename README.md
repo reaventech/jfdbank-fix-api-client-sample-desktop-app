@@ -1,7 +1,10 @@
 
 # JFD Bank FIX API Client Sample Desktop App
 
-This Java project is a sample desktop application which is a client for the JFD Bank FIX API
+This Java project is a sample desktop application which is a client for the JFD Bank FIX API.
+This Java project is based on **[QuickFixJ](https://www.quickfixj.org/)** Banzai demo application.
+This has been improved with multiple sessions feature and additional FIX protocol message support.
+See http://www.quickfixengine.org/LICENSE for licensing information of **[QuickFixJ](https://www.quickfixj.org/)** Banzai.
 
 ## Features
 
